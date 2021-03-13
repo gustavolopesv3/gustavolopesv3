@@ -36,3 +36,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/gustavolopesit/)
  [![Gmail Badge](https://img.shields.io/badge/gustavo.lopesv3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.lopesv3@gmail.com)](mailto:gustavo.lopesv3@gmail.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/gustavolopesit/)
+ 
+ <p align="center"> 
+  Contador de visitas<br>
+  <img src="https://profile-counter.glitch.me/gustavolopesv3/count.svg" />
+</p>
+
