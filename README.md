@@ -6,7 +6,7 @@
 - 👋 Me chamo **Gustavo Lopes**, tenho 21 anos.
 - 📌  De Rio Branco, Acre, Brasil.
 <!-- - 💼  -->
-- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/Erickson-lopes-dev/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
+- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](#))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 🎓 Formando em Sistemas de Infromação 8° Periodo
 
 <hr>
