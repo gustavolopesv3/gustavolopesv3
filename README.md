@@ -7,7 +7,7 @@
 - 📌  De Rio Branco, Acre, Brasil.
 <!-- - 💼  -->
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](#))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 🎓 Formando em Sistemas de Infromação 8° Periodo
+- 🎓 Formado em Sistemas de Infromação
 
 <hr>
 
