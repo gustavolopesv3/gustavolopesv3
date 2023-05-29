@@ -3,7 +3,7 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **Gustavo Lopes**, tenho 22 anos.
+- 👋 Me chamo **Gustavo Lopes**, tenho 23 anos.
 - 📌  De Rio Branco, Acre, Brasil.
 <!-- - 💼  -->
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](#))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
