@@ -6,7 +6,6 @@
 - 👋 Me chamo **Gustavo Lopes**, tenho 23 anos.
 - 📌  De Rio Branco, Acre, Brasil.
 <!-- - 💼  -->
-- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](#))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 🎓 Formado em Sistemas de Infromação
 
 <hr>
