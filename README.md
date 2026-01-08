@@ -37,7 +37,7 @@
 - Node.js • TypeScript • JavaScript  
 - Serverless Framework • SST • AWS CDK  
 - TypeORM • Sequelize  
-- REST APIs • JWT • Integrações
+- REST APIs • JWT  
 
 ### 🌐 Frontend
 - React.js  
@@ -45,13 +45,11 @@
 
 ### 🗄️ Bancos de Dados
 - PostgreSQL • MySQL  
-- MongoDB  
-- OracleDB  
+- MongoDB • OracleDB  
 
 ### ⚙️ DevOps & Outros
 - AWS • GitHub Actions (CI/CD)  
-- Docker  
-- Linux  
+- Docker • Linux  
 - Webpack • esbuild  
 
 ---
@@ -59,11 +57,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavolopesv3&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavolopesv3&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolopesv3&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolopesv3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +70,7 @@
 
 - 💼 Aberto a projetos, freelas e trocas de ideia
 - 📫 **Email:** gustavo.lopesv3@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/gustavolopesit](https://www.linkedin.com/in/gustavolopesit)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/gustavolopesit
 
 ---
 
